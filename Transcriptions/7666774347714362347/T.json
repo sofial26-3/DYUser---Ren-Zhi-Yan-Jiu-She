@@ -1,0 +1,245 @@
+{
+    "language": "en",
+    "segments": [
+        {
+            "start": 2.12,
+            "end": 3.52,
+            "text": " .",
+            "words": [
+                {
+                    "word": " .",
+                    "start": 2.12,
+                    "end": 3.52
+                }
+            ]
+        },
+        {
+            "start": 270.0,
+            "end": 274.4,
+            "text": " I'm so proud of you, I'm so proud of you",
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 270.0,
+                    "end": 270.5
+                },
+                {
+                    "word": " so",
+                    "start": 270.5,
+                    "end": 270.5
+                },
+                {
+                    "word": " proud",
+                    "start": 270.5,
+                    "end": 270.86
+                },
+                {
+                    "word": " of",
+                    "start": 270.86,
+                    "end": 271.04
+                },
+                {
+                    "word": " you,",
+                    "start": 271.04,
+                    "end": 271.04
+                },
+                {
+                    "word": " I'm",
+                    "start": 271.04,
+                    "end": 272.24
+                },
+                {
+                    "word": " so",
+                    "start": 272.24,
+                    "end": 272.24
+                },
+                {
+                    "word": " proud",
+                    "start": 272.24,
+                    "end": 272.76
+                },
+                {
+                    "word": " of",
+                    "start": 272.76,
+                    "end": 272.78
+                },
+                {
+                    "word": " you",
+                    "start": 272.78,
+                    "end": 274.4
+                }
+            ]
+        },
+        {
+            "start": 275.0,
+            "end": 283.4,
+            "text": " I'm so proud of you, I'm so proud of you",
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 275.0,
+                    "end": 275.94
+                },
+                {
+                    "word": " so",
+                    "start": 275.94,
+                    "end": 279.02
+                },
+                {
+                    "word": " proud",
+                    "start": 279.02,
+                    "end": 279.02
+                },
+                {
+                    "word": " of",
+                    "start": 279.02,
+                    "end": 279.52
+                },
+                {
+                    "word": " you,",
+                    "start": 279.52,
+                    "end": 280.46
+                },
+                {
+                    "word": " I'm",
+                    "start": 280.46,
+                    "end": 282.68
+                },
+                {
+                    "word": " so",
+                    "start": 282.68,
+                    "end": 282.68
+                },
+                {
+                    "word": " proud",
+                    "start": 282.68,
+                    "end": 282.68
+                },
+                {
+                    "word": " of",
+                    "start": 282.68,
+                    "end": 282.68
+                },
+                {
+                    "word": " you",
+                    "start": 282.68,
+                    "end": 283.4
+                }
+            ]
+        },
+        {
+            "start": 312.54,
+            "end": 329.98,
+            "text": " I'm so proud of you, I'm so proud of you",
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 312.54,
+                    "end": 313.94
+                },
+                {
+                    "word": " so",
+                    "start": 313.94,
+                    "end": 315.34
+                },
+                {
+                    "word": " proud",
+                    "start": 315.34,
+                    "end": 329.98
+                },
+                {
+                    "word": " of",
+                    "start": 329.98,
+                    "end": 329.98
+                },
+                {
+                    "word": " you,",
+                    "start": 329.98,
+                    "end": 329.98
+                },
+                {
+                    "word": " I'm",
+                    "start": 329.98,
+                    "end": 329.98
+                },
+                {
+                    "word": " so",
+                    "start": 329.98,
+                    "end": 329.98
+                },
+                {
+                    "word": " proud",
+                    "start": 329.98,
+                    "end": 329.98
+                },
+                {
+                    "word": " of",
+                    "start": 329.98,
+                    "end": 329.98
+                },
+                {
+                    "word": " you",
+                    "start": 329.98,
+                    "end": 329.98
+                }
+            ]
+        },
+        {
+            "start": 330.0,
+            "end": 331.8,
+            "text": " I'm so proud of you, I'm so proud of you",
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 330.0,
+                    "end": 330.12
+                },
+                {
+                    "word": " so",
+                    "start": 330.12,
+                    "end": 330.48
+                },
+                {
+                    "word": " proud",
+                    "start": 330.48,
+                    "end": 330.62
+                },
+                {
+                    "word": " of",
+                    "start": 330.62,
+                    "end": 330.62
+                },
+                {
+                    "word": " you,",
+                    "start": 330.62,
+                    "end": 330.62
+                },
+                {
+                    "word": " I'm",
+                    "start": 330.62,
+                    "end": 330.62
+                },
+                {
+                    "word": " so",
+                    "start": 330.62,
+                    "end": 330.62
+                },
+                {
+                    "word": " proud",
+                    "start": 330.62,
+                    "end": 330.62
+                },
+                {
+                    "word": " of",
+                    "start": 330.62,
+                    "end": 330.62
+                },
+                {
+                    "word": " you",
+                    "start": 330.62,
+                    "end": 331.8
+                }
+            ]
+        }
+    ]
+}
